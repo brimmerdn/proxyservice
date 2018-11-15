@@ -1,0 +1,10 @@
+{
+    "headerParams":
+    {
+        "Accept": "application/json",
+        "Authorization": "Authorization Token"
+    },
+    "forwardingUrl": "Forwarding URL",
+    "corsDomain": "Cors Domain",
+    "proxyApplicaitonPort": "port number"
+}
